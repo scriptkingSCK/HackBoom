@@ -47,7 +47,7 @@ try:
 			print(f"[{n}] Sended to => {no}")
 		else:
 			print("\n\t* !? *")
-			print("\n\t* ลองอีครั้ง *")
+			print("\n\t* กรุณาคัดลอกลิงค์แล้วเปิด https://www.citcall.com/demo/misscallapi*")
 			break
 except:
 	print("\n\t* ERROR *")
