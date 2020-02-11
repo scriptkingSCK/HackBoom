@@ -4,23 +4,7 @@ echo -e "\e[4;31m Sck !!! \e[0m"
 echo -e "\e[1;34m ง๊วฟฟ \e[0m"
 echo -e "\e[1;32m HacKboom \e[0m"
 echo "Press Enter To Continue"
-read a1
-if [[ -s update.speedx ]];then
-echo "All Requirements Found...."
-else
-echo 'Installing Requirements....'
-echo .
-echo .
-apt install figlet toilet python curl -y
-apt install python3-pip
-pip install -r requirements.txt
-echo This Script Was Made By sck >update.speedx
-echo Requirements Installed....
-echo Press Enter To Continue...
-read upd
-fi
-while :
-do
+
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
@@ -50,8 +34,8 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call HackBoom SCK'> call.xxx
-python3 bomber.py call
+echo 'Call HackBoom SCK'
+python Spam.py
 rm *.xxx >/dev/null 2>&1
 exit 0
 elif [ $ch -eq 3 ];then
