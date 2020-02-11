@@ -26,3 +26,9 @@ pip  install requirements.txt
 sh HackBoom.sh
 
 เลือกตามบาย
+
+
+กลุ่มFacebook : https://m.facebook.com/groups/511014426089032
+
+
+ใครเข้ามาแล้วคอมเม้นใต้โพสต์ใดก็ได้ว่ามาจาก SCK
