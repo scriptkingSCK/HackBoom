@@ -4,7 +4,7 @@
 
 pkg install git
 
-
+git clone https://github.com/scriptkingSCK/HackBoom
 
 pkg install python
 
