@@ -21,7 +21,7 @@ cd HackBoom
 
 pip  install requirements.txt
 
-
+pip install requests
 
 sh HackBoom.sh
 
